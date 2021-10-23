@@ -8,8 +8,6 @@ import carro from "./fotos/carro.jpeg";
 import {
   fab,
   faLinkedin,
-  // faFacebook,
-  // faGithub,
   faWhatsapp,
 } from "@fortawesome/free-brands-svg-icons";
 import { faCheckSquare, faCoffee } from "@fortawesome/free-solid-svg-icons";
